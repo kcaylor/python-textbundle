@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "python-textbundle"
+  site-url: "https://kcaylor.github.io/python-textbundle"
+  description: "Python package for handling textbundles"
+  repo-branch: main
+  repo-url: "https://github.com/kcaylor/python-textbundle"
